@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C, C++, Problem Solving**
 
-- 👨‍💻 All of my projects are available at [https://amitkumar99.netlify.app/](https://amitkr7893.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://amitkr7893.netlify.app/](https://amitkr7893.netlify.app/)
 
 - 💬 Ask me about **Web Development ( Front-End )**
 
