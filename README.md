@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" alt="Coding Gif">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500" alt="Coding Gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm AMIT KUMAR</h1>
@@ -40,19 +40,18 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitkr7893&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amitkr7893&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amitkr7893&show_icons=true&theme=tokyonight" width="38%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amitkr7893&theme=tokyonight" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkr7893&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkr7893&layout=compact&theme=tokyonight" width="38%" />
 </p>
 
 ---
 
-### 🎬 Just for Fun: Coding Mood
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="100%" />
 </p>
 
 ---
