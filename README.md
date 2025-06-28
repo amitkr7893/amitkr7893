@@ -32,7 +32,7 @@
 
 ### 🚀 Projects
 - 🔸 **[aajkal@nitjsr](https://github.com/amitkr7893/aajkal-nitjsr)** – Central hub for student events with MongoDB, Cloudinary & OTP auth  
-- 🔸 **[Two-Player Snake Game](https://github.com/amitkr7893/snake-game)** – Classic game enhanced with local multiplayer, mobile controls & colorful snakes  
+- 🔸 **[Two-Player Snake Game](https://github.com/amitkr7893/snakegame2.0)** – Classic game enhanced with local multiplayer, mobile controls & colorful snakes  
 - 🔸 **Text Formatter App** – Live preview of styled text using vanilla JS & custom styles  
 - 🔸 **Portfolio Website** – [amitkr7893.netlify.app](https://amitkr7893.netlify.app)
 
